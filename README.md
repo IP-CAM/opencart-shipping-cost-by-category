@@ -1,16 +1,14 @@
-==================================
 opencart-shipping-cost-by-category
 ==================================
 
 Opencart module to calculate shipping cost by category. 
 
-shipping_cost_by_category plugin is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
+opencart-shipping-cost-by-category plugin is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
 
-shipping_cost_by_category plugin is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.
+opencart-shipping-cost-by-category plugin is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.
 
-You should have received a copy of the GNU General Public License along with shipping_cost_by_category plugin. If not, see <http://www.gnu.org/licenses/>.
+You should have received a copy of the GNU General Public License along with opencart-shipping-cost-by-category plugin. If not, see <http://www.gnu.org/licenses/>.
 
-==================================
 Description 
 ==================================
 
@@ -27,11 +25,10 @@ The costs are:
 
 The total shipping cost will be 5.
 
-==================================
 Install
 ==================================
 
-extract/add files to proper filepath:
+Extract/add files to proper filepath:
 	admin/controller/shipping/category.php
 	admin/language/italian/shipping/category.php
 	admin/view/template/shipping/category.tpl
@@ -46,7 +43,6 @@ Access OpenCart admin backend:
 	Give permission to system -> user groups -> top admin ->  */category (ie: to all entries with category)
 	Set costs by category in extensions -> shipping -> fixed cost by category
 
-==================================
 Changelog
 ==================================
 
